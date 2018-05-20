@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="70dp">
+
+
+    <ImageView
+        android:id="@+id/headicon_iv"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/doctor"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp" />
+
+    <TextView
+        android:id="@+id/unread_tv"
+        android:layout_width="30dp"
+        android:layout_height="18dp"
+        android:background="@drawable/unread_shape"
+        tools:text="1"
+        android:textColor="@color/color_white"
+        android:gravity="center"
+        android:textSize="12dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="25dp"/>
+
+    <LinearLayout
+        android:layout_toRightOf="@id/headicon_iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/unread_tv">
+
+        <TextView
+            android:id="@+id/name_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="医生姓名"
+            android:textSize="18dp"
+            android:textColor="@color/color_black"
+            android:layout_marginBottom="5dp"/>
+        <TextView
+            android:id="@+id/career_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            tools:text="职称，诊室"
+            />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

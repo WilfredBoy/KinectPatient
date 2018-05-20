@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.qg.kinectpatient.view.TopbarL
+        android:id="@+id/doctor_info_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+    </com.qg.kinectpatient.view.TopbarL>
+
+    <RelativeLayout
+        android:id="@+id/relative_layout"
+        android:layout_below="@id/doctor_info_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="120dp">
+        <ImageView
+            android:id="@+id/doctor_icon_iv"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/doctor"
+            android:layout_centerInParent="true"/>
+        <TextView
+            android:id="@+id/doctor_info_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/doctor_icon_iv"
+            android:layout_centerHorizontal="true"
+            tools:text="医生姓名"
+            android:textSize="20dp"
+            android:layout_marginTop="5dp"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/delete_btn"
+        android:layout_width="230dp"
+        android:layout_height="60dp"
+        android:background="@color/color_red"
+        android:textColor="@color/color_white"
+        tools:text="删除"
+        android:text="@string/delete"
+        android:textSize="22dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/doctor_info_recyclerview"
+        android:layout_below="@id/relative_layout"
+        android:layout_above="@id/delete_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>
