@@ -4,7 +4,7 @@ package com.qg.kinectpatient.emsdk;
 import com.qg.kinectpatient.model.VoiceBean;
 
 /**
- * Created by ZH_L on 2016/10/25.
+ * Created by HWF on 2018/5/13..
  */
 public class PlayTask {
 

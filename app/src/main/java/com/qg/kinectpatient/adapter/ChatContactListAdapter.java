@@ -16,7 +16,7 @@ import com.qg.kinectpatient.model.PUser;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public class ChatContactListAdapter extends ItemAdapter<ChatInfoBean, ChatContactListAdapter.ChatInfoHolder>{
 

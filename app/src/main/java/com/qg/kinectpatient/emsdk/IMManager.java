@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by ZH_L on 2016/10/22.
+ * Created by HWF on 2018/5/13..
  */
 public class IMManager {
     private static final String TAG = IMManager.class.getSimpleName();

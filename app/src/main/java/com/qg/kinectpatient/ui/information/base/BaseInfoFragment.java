@@ -19,7 +19,7 @@ import static java.security.AccessController.getContext;
 
 
 /**
- * Created by TZH on 2016/10/29.
+ * Created by HWF on 2018/5/13..
  */
 public class BaseInfoFragment extends BaseFragment implements BaseInfoContract.View, AgeSexChooseDialogBuilder.OnSelectListener {
 

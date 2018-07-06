@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 /**
- * Created by ZH_L on 2016/10/25.
+ * Created by HWF on 2018/5/13..
  */
 public class VoiceBean {
 //    private PUser pUser;

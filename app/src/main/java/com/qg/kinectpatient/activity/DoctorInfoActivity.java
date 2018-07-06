@@ -16,7 +16,7 @@ import com.qg.kinectpatient.model.DUser;
 import com.qg.kinectpatient.view.TopbarL;
 
 /**
- * Created by ZH_L on 2016/10/30.
+ * Created by HWF on 2018/5/13..
  */
 
 public class DoctorInfoActivity extends BaseActivity{

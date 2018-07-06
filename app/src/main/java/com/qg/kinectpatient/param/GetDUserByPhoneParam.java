@@ -3,7 +3,7 @@ package com.qg.kinectpatient.param;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/26.
+ * Created by HWF on 2018/5/13..
  */
 public class GetDUserByPhoneParam extends Param{
     private List<String> phones;

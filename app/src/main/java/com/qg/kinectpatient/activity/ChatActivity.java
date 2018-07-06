@@ -41,7 +41,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/22.
+ * Created by HWF on 2018/5/13..
  */
 public class ChatActivity extends BaseActivity implements EMMessageListener, ChatAdapter.OnItemVoiceClickListener, View.OnLongClickListener, View.OnTouchListener, RecorderStateMachine.RecorderStateMachineListener, MediaPlayWorker.PlayStatusChangedListener, MediaRecordWorker.MediaRecordListener{
     private static final String TAG = ChatActivity.class.getSimpleName();

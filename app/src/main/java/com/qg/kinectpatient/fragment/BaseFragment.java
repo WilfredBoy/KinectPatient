@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public class BaseFragment extends Fragment implements View.OnClickListener{
 

@@ -14,7 +14,7 @@ import com.qg.kinectpatient.fragment.ProfileFragment;
 import com.qg.kinectpatient.ui.information.PersonalInfoFragment;
 
 /**
- * Created by 攀登者 on 2016/10/28.
+ * Created by HWF on 2018/5/13..
  */
 public class HomeActivity extends BaseActivity implements View.OnClickListener {
 

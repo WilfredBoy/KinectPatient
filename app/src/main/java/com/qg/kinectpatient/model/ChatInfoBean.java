@@ -5,7 +5,7 @@ import com.qg.kinectpatient.emsdk.EMConstants;
 import java.io.Serializable;
 
 /**
- * Created by ZH_L on 2016/10/28.
+ * Created by HWF on 2018/5/13..
  */
 
 public class ChatInfoBean implements Serializable{

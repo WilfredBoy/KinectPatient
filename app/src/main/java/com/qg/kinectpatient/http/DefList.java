@@ -3,7 +3,7 @@ package com.qg.kinectpatient.http;
 import com.qg.kinectpatient.util.ServerIpGetter;
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public class DefList {
     public static String url = "http://" + ServerIpGetter.getIpPort() + "/RecoveryTraining/PUser/";

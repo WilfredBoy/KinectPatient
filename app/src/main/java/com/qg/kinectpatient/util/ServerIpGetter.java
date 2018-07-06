@@ -5,10 +5,6 @@ import android.content.SharedPreferences;
 
 import com.qg.kinectpatient.activity.App;
 
-/**
- * Created by jimiji on 2018/4/21.
- */
-
 public class ServerIpGetter {
 
 

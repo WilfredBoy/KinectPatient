@@ -1,8 +1,5 @@
 package com.qg.kinectpatient.view;
 
-/**
- * Created by 攀登者 on 2016/10/31.
- */
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Canvas;
@@ -14,7 +11,7 @@ import android.util.Log;
 import android.view.View;
 
 /**
- * Created by 攀登者 on 2016/10/23.
+ * Created by HWF on 2018/5/13..
  */
 public class DividerItemDecoration extends RecyclerView.ItemDecoration {
 

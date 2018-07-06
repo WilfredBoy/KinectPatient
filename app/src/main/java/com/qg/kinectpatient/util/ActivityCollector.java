@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/22.
+ * Created by HWF on 2018/5/13..
  */
 public class ActivityCollector {
     private List<BaseActivity> activities = new ArrayList<>();

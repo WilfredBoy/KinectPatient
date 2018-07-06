@@ -8,7 +8,7 @@ import com.hyphenate.chat.EMMessage;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/22.
+ * Created by HWF on 2018/5/13..
  */
 public abstract class IMCallback implements EMMessageListener, EMContactListener, EMCallBack {
 

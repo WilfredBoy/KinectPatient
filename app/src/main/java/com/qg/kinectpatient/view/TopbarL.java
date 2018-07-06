@@ -13,7 +13,7 @@ import com.qg.kinectpatient.R;
 
 
 /**
- * Created by ZH_L on 2016/10/25.
+ * Created by HWF on 2018/5/13..
  */
 public class TopbarL extends LinearLayout{
     private static final String TAG = TopbarL.class.getSimpleName();

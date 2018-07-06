@@ -12,7 +12,7 @@ import com.qg.kinectpatient.R;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/30.
+ * Created by HWF on 2018/5/13..
  */
 
 public class DoctorProAdapter extends RecyclerView.Adapter<DoctorProAdapter.DoctorPropertyHolder> {

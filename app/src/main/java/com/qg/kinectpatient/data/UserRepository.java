@@ -6,7 +6,7 @@ import android.content.SharedPreferences;
 import com.qg.kinectpatient.activity.App;
 
 /**
- * Created by TZH on 2016/10/30.
+ * Created by HWF on 2018/5/13..
  */
 public class UserRepository {
 

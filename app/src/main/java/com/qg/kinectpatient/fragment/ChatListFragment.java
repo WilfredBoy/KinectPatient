@@ -41,7 +41,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public class ChatListFragment extends BaseFragment implements ChatContactListAdapter.OnChatItemClickListener, EMMessageListener, EMContactListener {
 

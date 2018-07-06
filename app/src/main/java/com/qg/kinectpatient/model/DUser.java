@@ -3,7 +3,7 @@ package com.qg.kinectpatient.model;
 import java.io.Serializable;
 
 /**
- * Created by ZH_L on 2016/10/22.
+ * Created by HWF on 2018/5/13..
  */
 public class DUser implements Serializable{
     private int id;

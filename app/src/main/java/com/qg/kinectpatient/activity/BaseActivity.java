@@ -8,7 +8,7 @@ import com.qg.kinectpatient.util.ActivityCollector;
 
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public class BaseActivity extends AppCompatActivity implements View.OnClickListener{
 

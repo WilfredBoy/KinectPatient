@@ -17,7 +17,7 @@ import com.qg.kinectpatient.model.VoiceBean;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/25.
+ * Created by HWF on 2018/5/13..
  */
 public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.VoiceHolder>{
     private static final String TAG = ChatAdapter.class.getSimpleName();

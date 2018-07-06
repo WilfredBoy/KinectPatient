@@ -8,7 +8,7 @@ import com.qg.kinectpatient.activity.App;
 
 
 /**
- * Created by ZH_L on 2016/10/25.
+ * Created by HWF on 2018/5/13..
  */
 public class MediaRecordWorker extends BaseWorker<RecordTask> {
     private static final String TAG  = MediaRecordWorker.class.getSimpleName();

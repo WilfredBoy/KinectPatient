@@ -5,7 +5,7 @@ import com.qg.kinectpatient.model.MedicalRecord;
 import java.util.ArrayList;
 
 /**
- * Created by 攀登者 on 2016/10/31.
+ * Created by HWF on 2018/5/13..
  */
 public class GetMRResult extends Result {
     public ArrayList<MedicalRecord> medicalRecords;//若没有病历则为空

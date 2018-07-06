@@ -24,7 +24,7 @@ import static com.qg.kinectpatient.util.Preconditions.checkNotNull;
 
 /**
  * A Toolbar with center title.
- * Created by TZH on 2016/10/28.
+ * Created by HWF on 2018/5/13..
  */
 public class ToolbarT extends Toolbar {
     private TextView mTitleTextView;

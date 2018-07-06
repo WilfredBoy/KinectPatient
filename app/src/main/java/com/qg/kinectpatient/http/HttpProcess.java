@@ -17,7 +17,7 @@ import java.net.ProtocolException;
 import java.net.URL;
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public class HttpProcess {
     private static final String TAG = HttpProcess.class.getSimpleName();

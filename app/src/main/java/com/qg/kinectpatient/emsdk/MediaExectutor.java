@@ -1,7 +1,7 @@
 package com.qg.kinectpatient.emsdk;
 
 /**
- * Created by ZH_L on 2016/10/25.
+ * Created by HWF on 2018/5/13..
  */
 public class MediaExectutor {
     private static final String TAG = MediaExectutor.class.getSimpleName();

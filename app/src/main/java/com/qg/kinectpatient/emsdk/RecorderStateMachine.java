@@ -11,7 +11,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by ZH_L on 2016/10/26.
+ * Created by HWF on 2018/5/13..
  */
 public class RecorderStateMachine {
     private static final String TAG = RecorderStateMachine.class.getSimpleName();

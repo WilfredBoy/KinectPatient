@@ -8,7 +8,7 @@ import com.qg.kinectpatient.model.PUser;
 import static com.qg.kinectpatient.util.Preconditions.checkNotNull;
 
 /**
- * Created by TZH on 2016/10/29.
+ * Created by HWF on 2018/5/13..
  */
 
 class PersonalInfoPresenter implements PersonalInfoContract.Presenter {

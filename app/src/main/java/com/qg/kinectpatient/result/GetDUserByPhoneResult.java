@@ -7,7 +7,7 @@ import com.qg.kinectpatient.model.DUser;
 import java.util.Map;
 
 /**
- * Created by ZH_L on 2016/10/26.
+ * Created by HWF on 2018/5/13..
  */
 public class GetDUserByPhoneResult extends Result{
     private Map<String,DUser> phoneToDUser;

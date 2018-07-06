@@ -16,7 +16,7 @@ import com.qg.kinectpatient.ui.information.base.BaseInfoActivity;
 import static com.qg.kinectpatient.util.Preconditions.checkNotNull;
 
 /**
- * Created by TZH on 2016/10/26.
+ * Created by HWF on 2018/5/13..
  */
 public class PersonalInfoFragment extends BaseFragment implements PersonalInfoContract.View {
 

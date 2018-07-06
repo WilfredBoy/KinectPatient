@@ -3,7 +3,7 @@ package com.qg.kinectpatient.result;
 import android.text.TextUtils;
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public class Result {
     public int status = 1;

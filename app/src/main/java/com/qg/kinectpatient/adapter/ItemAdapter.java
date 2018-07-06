@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import java.util.List;
 
 /**
- * Created by ZH_L on 2016/10/21.
+ * Created by HWF on 2018/5/13..
  */
 public abstract class ItemAdapter<E, VH extends ItemViewHolder> extends RecyclerView.Adapter<VH>{
     protected Context context;

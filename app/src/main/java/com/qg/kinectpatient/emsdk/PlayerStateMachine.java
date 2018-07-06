@@ -11,7 +11,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by ZH_L on 2016/10/27.
+ * Created by HWF on 2018/5/13..
  */
 public class PlayerStateMachine implements MediaPlayer.OnCompletionListener, MediaPlayer.OnErrorListener, MediaPlayer.OnPreparedListener{
     private static final String TAG = PlayerStateMachine.class.getSimpleName();

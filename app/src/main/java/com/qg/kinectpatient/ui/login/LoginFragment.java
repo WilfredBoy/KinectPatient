@@ -26,7 +26,7 @@ import static com.qg.kinectpatient.util.Preconditions.checkNotNull;
 
 /**
  * Main UI for the login screen.
- * Created by TZH on 2016/10/27.
+ * Created by HWF on 2018/5/13..
  */
 public class LoginFragment extends BaseFragment implements LoginContract.View {
 

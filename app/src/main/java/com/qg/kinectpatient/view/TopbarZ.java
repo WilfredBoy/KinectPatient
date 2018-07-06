@@ -14,7 +14,7 @@ import com.qg.kinectpatient.R;
 
 
 /**
- * Created by 攀登者 on 2016/10/25.
+ * Created by HWF on 2018/5/13..
  */
 public class TopbarZ extends LinearLayout {
 

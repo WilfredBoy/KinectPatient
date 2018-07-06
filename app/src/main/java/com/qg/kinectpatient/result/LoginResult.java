@@ -3,7 +3,7 @@ package com.qg.kinectpatient.result;
 import com.qg.kinectpatient.model.PUser;
 
 /**
- * Created by ZH_L on 2016/10/22.
+ * Created by HWF on 2018/5/13..
  */
 public class LoginResult extends Result{
 //    private int status;//状态，1为登陆成功，0为密码错误，2为不存在用户

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KinectPatient</string>
+    <string name="app_name">Patient</string>
 
     <!-- Created by tzh. -->
     <string name="register">注册</string>

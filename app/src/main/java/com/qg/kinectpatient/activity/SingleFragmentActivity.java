@@ -7,7 +7,7 @@ import com.qg.kinectpatient.R;
 import com.qg.kinectpatient.util.ActivityUtils;
 
 /**
- * Created by TZH on 2016/10/28.
+ * Created by HWF on 2018/5/13..
  */
 public abstract class SingleFragmentActivity extends BaseActivity {
 

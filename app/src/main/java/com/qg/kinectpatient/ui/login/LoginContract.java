@@ -6,7 +6,7 @@ import com.qg.kinectpatient.ui.BaseView;
 import com.qg.kinectpatient.model.PUser;
 
 /**
- * Created by TZH on 2016/10/27.
+ * Created by HWF on 2018/5/13..
  */
 public class LoginContract {
 

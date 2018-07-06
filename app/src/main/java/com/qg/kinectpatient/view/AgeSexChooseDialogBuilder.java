@@ -17,7 +17,7 @@ import com.qg.kinectpatient.R;
 import java.lang.reflect.Field;
 
 /**
- * Created by TZH on 2016/10/31.
+ * Created by HWF on 2018/5/13..
  */
 
 public class AgeSexChooseDialogBuilder implements View.OnClickListener, NumberPicker.OnValueChangeListener, NumberPicker.OnScrollListener, NumberPicker.Formatter {
